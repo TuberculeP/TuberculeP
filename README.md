@@ -26,4 +26,6 @@
 
 ---
 
-♫ I love music & I do some <a href="https://soundcloud.com/tuberculepoirot" target="_blank">here</a>
+🎵 I love music & I do some <a href="https://soundcloud.com/tuberculepoirot" target="_blank">🔗 here</a>
+
+🎥 I make videos sometimes too (music and random stuff) <a href="https://www.youtube.com/channel/UC9em51Z47AutNLQb7DGL7Mg" target="_blank">🔗 here</a>
