@@ -32,4 +32,4 @@
 
 ✉️ Contact me via LinkedIn <a href="https://www.linkedin.com/in/felix-lavieville/" target="_blank">🔗 here</a> or <a href="mailto:lavieville.felix@gmail.com">mail</a>
 
-<img src="https://tenor.com/XK3M.gif">
+<img src="gif_seeyou.gif">
