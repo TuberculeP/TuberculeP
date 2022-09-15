@@ -12,4 +12,4 @@
 
 ---
 
-♫ I love music & I do some <a href="https://soundcloud.com/tuberculepoirot">here</a>
+♫ I love music & I do some <a href="https://soundcloud.com/tuberculepoirot" target="_blank">here</a>
