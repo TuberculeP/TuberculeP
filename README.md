@@ -29,3 +29,5 @@
 🎵 I love music & I do some <a href="https://soundcloud.com/tuberculepoirot" target="_blank">🔗 here</a>
 
 🎥 I make videos sometimes too (music and random stuff) <a href="https://www.youtube.com/channel/UC9em51Z47AutNLQb7DGL7Mg" target="_blank">🔗 here</a>
+
+✉️ Contact me via LinkedIn <a href="https://www.linkedin.com/in/felix-lavieville/" target="_blank">🔗 here</a>
