@@ -1,6 +1,6 @@
 # Hi ! I'm Félix 😄
 
-![](https://komarev.com/ghpvc/?username=TuberculeP&color=grey&style=flat-square)
+![](https://komarev.com/ghpvc/?username=TuberculeP&color=blue&style=for-the-badge)
 
 > notice that another account is named `tuberculepoirot` but i'm the real one
 
