@@ -2,8 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=TuberculeP&color=blue&style=for-the-badge)
 
-> notice that another account is named `tuberculepoirot` but i'm the real one
-
 🇫🇷 French Student
 
 💻 Front-End, Back-End
