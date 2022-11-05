@@ -2,7 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=TuberculeP&color=blue&style=for-the-badge)
 
-🇫🇷 French Student
+🇫🇷 French Student & Freelance
+
+> https://felix-lavieville.com/
 
 💻 Front-End, Back-End
 
