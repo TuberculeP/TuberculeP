@@ -34,4 +34,9 @@
 
 ✉️ Contact me via LinkedIn <a href="https://www.linkedin.com/in/felix-lavieville/" target="_blank">🔗 here</a> or <a href="mailto:lavieville.felix@gmail.com">mail</a>
 
-<img src="gif_seeyou.gif">
+<h3>📊 Github Stats</h3>
+<br>
+<p><img align="left" src= "https://github-profile-trophy.vercel.app/?username=tuberculep&theme=tokyonight"/><p>
+<br>
+<p><img align="center" src= "https://github-readme-stats.vercel.app/api?username=tuberculep&show_icons=true&theme=tokyonight"/><p>
+<p><img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=tuberculep&show_icons=true&theme=tokyonight"/><p>
