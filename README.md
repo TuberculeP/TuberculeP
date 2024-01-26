@@ -4,7 +4,7 @@
 
 🇫🇷 French Student & Freelance
 
-> https://felix-lavieville.com/
+> https://felix-lavieville.fr/
 
 💻 Front-End, Back-End
 
