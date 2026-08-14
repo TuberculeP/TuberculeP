@@ -1,42 +1,45 @@
-# Hi ! I'm Félix 😄
+# Félix Laviéville
 
-![](https://komarev.com/ghpvc/?username=TuberculeP&color=blue&style=for-the-badge)
+Je construis des systèmes qui tournent tout seuls avec des humains dessus.
+Automatisation, agents IA et applications web en TypeScript. Freelance, basé en région parisienne.
 
-🇫🇷 French Student & Freelance
-
-> https://felix-lavieville.fr/
-
-💻 Front-End, Back-End
-
-⚙️ Algorithmy
-
-👾 Games ? Sometimes
-
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+[![Site](https://img.shields.io/badge/felix--lavieville.fr-000?style=flat-square)](https://felix-lavieville.fr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-lavieville/)
+[![Mail](https://img.shields.io/badge/lavieville.felix@gmail.com-000?style=flat-square)](mailto:lavieville.felix@gmail.com)
 
 ---
 
-🎵 I love music & I do some <a href="https://soundcloud.com/tuberculepoirot" target="_blank">🔗 here</a>
+### Ce que je fais pour des clients
 
-🎥 I make videos sometimes too (music and random stuff) <a href="https://www.youtube.com/channel/UC9em51Z47AutNLQb7DGL7Mg" target="_blank">🔗 here</a>
+**Automatisation de processus internes.** Workflows n8n, agents branchés sur les outils déjà en place (Linear, Slack, Notion, Google Workspace), serveurs MCP. L'objectif est toujours le même : supprimer la partie répétitive d'un travail sans obliger l'équipe à changer ses habitudes.
 
-✉️ Contact me via LinkedIn <a href="https://www.linkedin.com/in/felix-lavieville/" target="_blank">🔗 here</a> or <a href="mailto:lavieville.felix@gmail.com">mail</a>
+**Applications web sur mesure.** TypeScript de bout en bout. Vue et Nuxt côté front, Node avec Nest, Fastify ou Express côté back. Postgres, Supabase, Redis.
 
-<h3>📊 Github Stats</h3>
-<br>
-<p><img align="left" src= "https://github-profile-trophy.vercel.app/?username=tuberculep&theme=tokyonight"/><p>
-<br>
-<p><img align="center" src= "https://github-readme-stats.vercel.app/api?username=tuberculep&show_icons=true&theme=tokyonight"/><p>
-<p><img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=tuberculep&show_icons=true&theme=tokyonight"/><p>
+**Infra et déploiement.** Docker, Coolify, GCP, AWS. Je fais tourner mes propres services sur du matériel que j'administre, ce qui aide beaucoup quand un client a des contraintes de confidentialité ou de budget.
+
+Certifié Azure, GCP et AWS. Certifié Scrum et Design Thinking.
+
+### Quelques projets
+
+| | |
+|---|---|
+| [**Bloop**](https://bloop-on.cloud) | DAW (logiciel de musique) complet dans le navigateur, audio temps réel. Co-fondateur et lead dev. |
+| [**Societer**](https://societer.felix-lavieville.fr) | Framework TypeScript pour jeux de plateau en ligne. Moteur de règles pensé pour être écrit par un humain ou par un agent. |
+| [**Everything Tierlist**](#) | Une plateforme type Tierlist où toutes les entrées sont mutualisées : classez tout en fonction de rien ! |
+| [**Magic-Knob**](https://github.com/TuberculeP/Magic-Knob) | Contrôleur MIDI Arduino piloté par un capteur de distance. |
+| [**AlexandreBot**](https://github.com/TuberculeP/AlexandreBot) | Bot Discord qui détecte les alexandrins dans les conversations. Oui, et alors ? |
+
+Les études de cas détaillées sont sur [felix-lavieville.fr](https://felix-lavieville.fr/).
+
+### L'atelier
+
+<!-- ATELIER:START -->
+<!-- ATELIER:END -->
+
+Le reste de ce compte est un bac à sable pur jus. Quatre-vingts et quelques dépôts, des expériences web, des petits jeux en ligne, des trucs faits un dimanche soir parce que l'idée était drôle. Servez-vous.
+
+### Ailleurs
+
+Je fais de la musique, principalement de la vielle à roue et des instruments à cordes qui ont mal vieilli, ou sur ordinateur de la musique électronique aléatoire. Quelques morceaux traînent sur [SoundCloud](https://soundcloud.com/tuberculepoirot)
+
+> L'ancien pape est mort. Un nouveau pape est appelé à régner. Araignée ? Quel drôle de nom... Pourquoi pas libellule ? Ou papillon ? Ahh.. Cette blague est drôle ! Très drôle ! Rions tous ensemble trois fois en saccade de deux, d'un air franc et gaulois. Aha, aha, aha. Quelqu'un n'a pas rigolé. Peut-être qu'il n'a pas compris la blague ! L'ancien pape est mort...
