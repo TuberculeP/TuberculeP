@@ -36,15 +36,15 @@ Les études de cas détaillées sont sur [felix-lavieville.fr](https://felix-lav
 <!-- ATELIER:START -->
 
 - [**new-portfolio**](https://github.com/TuberculeP/new-portfolio) `TypeScript` : Will this one be shipped ?
+- [**Mes-trucs-r-ccurents**](https://github.com/TuberculeP/Mes-trucs-r-ccurents) `TypeScript` : Un service permettant de centraliser tous les rappels réguliers de mon calendrier (contrôle technique, vidange, pompe de la machine à laver) et cela n'a évidemment pas le moindre lien avec quelconque truc oublié
 - [**express-vue-postgres**](https://github.com/TuberculeP/express-vue-postgres) `TypeScript` : sans description, et ça restera comme ça
 - [**tabletop-saas**](https://github.com/TuberculeP/tabletop-saas) `TypeScript` : sans description, et ça restera comme ça
 - [**everything_tierlist_2**](https://github.com/TuberculeP/everything_tierlist_2) `Vue` : sans description, et ça restera comme ça
 - [**Bloop**](https://github.com/TuberculeP/Bloop) `TypeScript` : sans description, et ça restera comme ça
 - [**deep-learning-et-mayonnaise**](https://github.com/TuberculeP/deep-learning-et-mayonnaise) `Jupyter Notebook` : sans description, et ça restera comme ça
 - [**cher-reseau**](https://github.com/TuberculeP/cher-reseau) `TypeScript` : Un bot discord qui permet de transformer un message en screenshot de post linkedin
-- [**TurboAlphaBot**](https://github.com/TuberculeP/TurboAlphaBot) `Python` : sans description, et ça restera comme ça
 
-_Régénéré automatiquement le 17/08/2026._
+_Régénéré automatiquement le 24/08/2026._
 
 <!-- ATELIER:END -->
 
