@@ -44,7 +44,7 @@ Les études de cas détaillées sont sur [felix-lavieville.fr](https://felix-lav
 - [**deep-learning-et-mayonnaise**](https://github.com/TuberculeP/deep-learning-et-mayonnaise) `Jupyter Notebook` : sans description, et ça restera comme ça
 - [**cher-reseau**](https://github.com/TuberculeP/cher-reseau) `TypeScript` : Un bot discord qui permet de transformer un message en screenshot de post linkedin
 
-_Régénéré automatiquement le 07/09/2026._
+_Régénéré automatiquement le 14/09/2026._
 
 <!-- ATELIER:END -->
 
