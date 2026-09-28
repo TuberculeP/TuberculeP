@@ -44,7 +44,7 @@ Les études de cas détaillées sont sur [felix-lavieville.fr](https://felix-lav
 - [**Bloop**](https://github.com/TuberculeP/Bloop) `TypeScript` : sans description, et ça restera comme ça
 - [**deep-learning-et-mayonnaise**](https://github.com/TuberculeP/deep-learning-et-mayonnaise) `Jupyter Notebook` : sans description, et ça restera comme ça
 
-_Régénéré automatiquement le 21/09/2026._
+_Régénéré automatiquement le 28/09/2026._
 
 <!-- ATELIER:END -->
 
